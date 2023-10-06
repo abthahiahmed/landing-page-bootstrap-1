@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.max-1024{
+    max-width: 1024px;
+}
+.no-border > *{
+    border: 0 !important;
+}
+.cimg{
+    height: 100px;
+}
+.section{
+    margin: 5rem auto 0px auto;
+}
+.fs-8{
+    font-size: 0.9rem;
+}
